@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "intercontinental high fives",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"uniqueTo": "the dudes",
+		"replaces": "Archer",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"strength": 1,
+		"rangedStrength": 1,
+		"range": 10,
+		"cost": 10,
+		"requiredTech": "Archery",
+		"requiredResource": "horses",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": ""
 	}
 ]
