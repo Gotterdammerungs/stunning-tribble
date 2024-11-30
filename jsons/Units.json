@@ -11,6 +11,6 @@
 		"cost": 10,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "yo.mp3"
+		"attackSound": "yo"
 	}
 ]
