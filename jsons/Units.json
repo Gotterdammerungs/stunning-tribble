@@ -1,6 +1,6 @@
 [
 	{
-		"name": "intercontinental high fives",
+		"name": "intercontinental high five",
 		"unitType": "Ranged",
 		"uniqueTo": "the dudes",
 		"replaces": "Archer",
@@ -10,8 +10,7 @@
 		"range": 10,
 		"cost": 10,
 		"requiredTech": "Archery",
-		"requiredResource": "horses",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": ""
+		"attackSound": "yo"
 	}
 ]
