@@ -1,9 +1,8 @@
 [
 	{
-		"name": "The Dudes",
+		"name": "the dudes",
 		"leaderName": "dude",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "yo dude! just like don't die,or something...",
